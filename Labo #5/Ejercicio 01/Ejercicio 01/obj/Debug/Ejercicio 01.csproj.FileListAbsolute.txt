@@ -1,0 +1,6 @@
+C:\Users\Lenovo\Documents\GitHub\00245818_JRNS_POO\Labo #5\Ejercicio 01\Ejercicio 01\bin\Debug\Ejercicio_01.exe
+C:\Users\Lenovo\Documents\GitHub\00245818_JRNS_POO\Labo #5\Ejercicio 01\Ejercicio 01\bin\Debug\Ejercicio_01.pdb
+C:\Users\Lenovo\Documents\GitHub\00245818_JRNS_POO\Labo #5\Ejercicio 01\Ejercicio 01\obj\Debug\Ejercicio 01.csprojAssemblyReference.cache
+C:\Users\Lenovo\Documents\GitHub\00245818_JRNS_POO\Labo #5\Ejercicio 01\Ejercicio 01\obj\Debug\Ejercicio 01.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\GitHub\00245818_JRNS_POO\Labo #5\Ejercicio 01\Ejercicio 01\obj\Debug\Ejercicio_01.exe
+C:\Users\Lenovo\Documents\GitHub\00245818_JRNS_POO\Labo #5\Ejercicio 01\Ejercicio 01\obj\Debug\Ejercicio_01.pdb
